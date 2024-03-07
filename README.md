@@ -13,8 +13,6 @@ This Jupyter Notebook provides a step-by-step guide to training a Faster R-CNN o
 ## Requirements
 
 - Python 3.x
-- PyTorch
-- MMDetection
 - Jupyter Notebook or JupyterLab (from [Anaconda](https://www.anaconda.com))
 
 Make sure to install all the necessary dependencies before running the notebook.
